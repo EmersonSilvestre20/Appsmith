@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 36,
+  "boxShadow": "none",
+  "buttonColor": "#1db454",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "iz8gmp6k54",
+  "leftColumn": 31,
+  "minWidth": 120,
+  "mobileBottomRow": 39,
+  "mobileLeftColumn": 28,
+  "mobileRightColumn": 44,
+  "mobileTopRow": 35,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Plano Com renovar com numero', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 36,
+  "originalTopRow": 31,
+  "parentColumnSpace": 18.95849609375,
+  "parentId": "s9j6xzu8i0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 41,
+  "text": "Avançar",
+  "topRow": 31,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "yhsztgak5m",
+  "widgetName": "avancar"
+}

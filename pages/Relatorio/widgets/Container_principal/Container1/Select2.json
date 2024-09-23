@@ -1,0 +1,56 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "0.375rem",
+  "bottomRow": 4,
+  "boxShadow": "none",
+  "defaultOptionValue": "nenhum",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "74c8jf0yxd",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 26,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 10,
+  "mobileLeftColumn": 37,
+  "mobileRightColumn": 57,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "optionLabel": "name",
+  "optionValue": "code",
+  "parentColumnSpace": 18.95849609375,
+  "parentId": "12j8z85gh7",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 53,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"Nenhum\",\n    \"code\": \"nenhum\"\n  },\n  {\n    \"name\": \"Eventos\",\n    \"code\": \"eventos\"\n  },\n  {\n    \"name\": \"Rotas\",\n    \"code\": \"rotas\"\n  },\n  {\n    \"name\": \"Sumario\",\n    \"code\": \"sumario\"\n  }\n]",
+  "topRow": 0,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "ydy58jnbhv",
+  "widgetName": "Select2"
+}

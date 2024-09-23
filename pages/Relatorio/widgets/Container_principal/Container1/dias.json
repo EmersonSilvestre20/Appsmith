@@ -1,0 +1,56 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "0.375rem",
+  "bottomRow": 4,
+  "boxShadow": "none",
+  "defaultOptionValue": "hoje",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "74c8jf0yxd",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 10,
+  "mobileLeftColumn": 15,
+  "mobileRightColumn": 35,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "optionLabel": "name",
+  "optionValue": "code",
+  "parentColumnSpace": 18.95849609375,
+  "parentId": "12j8z85gh7",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 25,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"Hoje\",\n    \"code\": \"hoje\"\n  },\n  {\n    \"name\": \"Ontem\",\n    \"code\": \"ontem\"\n  },\n  {\n    \"name\": \"Esta Semana\",\n    \"code\": \"esta_semana\"\n  },\n    {\n    \"name\": \"Semana passada\",\n    \"code\": \"semana_passada\"\n  },\n    {\n    \"name\": \"Este Més\",\n    \"code\": \"este_mes\"\n  },\n    {\n    \"name\": \"Més Passado\",\n    \"code\": \"mes_pasado\"\n  },\n    {\n    \"name\": \"Esta Ano\",\n    \"code\": \"esta_ano\"\n  },\n    {\n    \"name\": \"Ano Passado\",\n    \"code\": \"ano_pasado\"\n  }\n\t\n]",
+  "topRow": 0,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "nvtbt8htut",
+  "widgetName": "dias"
+}
